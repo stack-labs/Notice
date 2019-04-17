@@ -9,3 +9,7 @@
 # 技术支持
 
 如需技术支持或使用企业版Micro，请[致邮i@shux.me](mailto:i@shux.me)
+
+# 常见问题
+
+请开issue，我们会一一解答，谢谢大家。
