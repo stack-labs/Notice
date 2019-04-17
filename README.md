@@ -4,14 +4,14 @@
 
 目前**micro-in-cn**还是发展阶段，其所有发展现状、用户反馈等信息都会充分受到Micro关注并提供力所能及的支持。
 
-# 交流
+## 交流
 
 请加入[slack](http://slack.micro.mu/)，进入**中国区**Channel沟通。
 
-# 技术支持
+## 技术支持
 
 如需技术支持或使用企业版Micro，请[致邮i@shux.me](mailto:i@shux.me)。
 
-# 常见问题
+## 常见问题
 
 请开issue，我们会一一解答，谢谢大家。
