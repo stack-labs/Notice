@@ -1,4 +1,4 @@
-# 非官方声明
+# 声明
 
 **micro-in-cn**是Micro（London）关注的组织，但是并非官方所属组织。任何非Micro的组织或个人的任何言论、代码等均不代表Micro China。
 
