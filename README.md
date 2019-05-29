@@ -8,6 +8,8 @@
 
 请加入[slack](http://slack.micro.mu/)，进入**中国区**Channel沟通。
 
+请加入[meetup](https://www.meetup.com/Micro-Services-Network/)，我们会在上面发布重要的事件。
+
 ## 技术支持
 
 如需技术支持或使用企业版Micro，请[致邮i@shux.me](mailto:i@shux.me)。
