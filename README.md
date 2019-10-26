@@ -10,9 +10,15 @@
 
 请加入[meetup](https://www.meetup.com/Micro-Services-Network/)，我们会在上面发布重要的事件。
 
-## 技术支持
+或者关注微信公众号、微信群：
+<div style="float:left">
+<img src="https://github.com/micro-in-cn/Notice/raw/master/donation/wx_qrcode.jpg" width="30%">
+<img src="https://github.com/micro-in-cn/Notice/raw/master/donation/wx_group_v1.png" width="30%"> 
+</div>
 
-如需技术支持或使用企业版Micro，请[致邮i@shux.me](mailto:i@shux.me)。
+## 捐赠
+
+[链接](./donation/README.md)
 
 ## 常见问题
 
