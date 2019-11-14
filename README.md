@@ -12,8 +12,8 @@
 
 或者关注微信公众号、微信群：
 <div style="float:left">
-<img src="https://github.com/micro-in-cn/Notice/raw/master/donation/wx_qrcode.jpg" width="30%">
-<img src="https://github.com/micro-in-cn/Notice/raw/master/donation/wx_group_v1.png" width="30%"> 
+<img src="donation/wx_qrcode.jpg" width="30%">
+<img src="donation/wx_group_v1.png" width="30%"> 
 </div>
 
 微信群已不能扫码登录，请扫码加好友，并注明“姓名+github”
@@ -26,11 +26,11 @@
 
 预备条件：
 
-1. 较强的编程能力，在算法、网络、架构、设计上有至少一个突出点，了解Micro
-2. 良好的英文技术文档阅读能力，能听、说更好。
-3. 你擅长的领域，可以给Micro China带来什么？
-4. 愿意无偿长期为大家服务
-5. 坚持坚持再坚持
+1. 热爱开源，愿意与全世界的开发者们一起分享代码.
+2. 在编码逻辑、算法、网络、架构、设计等开发相关的方向和领域里，至少有一个突出点.
+3. 参与过、正在参与、即将参与go-micro、micro相关的开发。
+4. 良好的英文技术文档阅读能力，能听、说更好.
+5. 享受coding带来的乐趣，愿意为大家服务.
 
 麻烦添加微信：SLliuxian，备注姓名
 
