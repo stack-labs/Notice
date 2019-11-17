@@ -1,6 +1,6 @@
 # 声明
 
-**micro-in-cn**是Micro（London）关注的组织，但是并非官方所属组织。任何非Micro的组织或个人的任何言论、代码等均不代表Micro China。
+**micro-in-cn**是Micro（London）关注的组织，但是并非官方所属组织。任何非Micro的组织或个人的任何言论、代码等均不代表Micro。
 
 目前**micro-in-cn**还是发展阶段，其所有发展现状、用户反馈等信息都会充分受到Micro关注并提供力所能及的支持。
 
