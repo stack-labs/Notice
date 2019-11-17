@@ -22,7 +22,7 @@
 
 [链接](./donation/README.md)
 
-## 加入我们
+## 加入Micro China Team
 
 预备条件：
 
@@ -33,6 +33,13 @@
 5. 享受coding带来的乐趣，愿意为大家服务.
 
 麻烦添加微信：SLliuxian，备注姓名
+
+## 加入micro Open Community
+
+1. Micro China Team 致力于为的每一个micro爱好者，提供广阔而激动人心的创新、创意平台.
+2. 对于有热情你的，欢迎你加入[micro Open Community](https://github.com/micro-community).
+3. 在[micro Open Community](https://github.com/micro-community)，你几乎可以发布任意Idea，并融入Micro China.
+4. 了解流程，并加入Micro开放平台：[Join micro Open Community](https://github.com/micro-community/how-to-join).
 
 ## 常见问题
 
