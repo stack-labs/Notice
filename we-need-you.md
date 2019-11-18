@@ -29,7 +29,7 @@
 
 ## 加入我们
 
-1、如果你希望自己致力于go-micro中国生态的有序健康发展，那么欢迎加入[Join Micro China Team](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-china-team)这意味更多的付出，当然也意味着更大的价值。
+1、如果你希望自己致力于go-micro中国生态的有序健康发展，那么欢迎加入[Join Micro China Team](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-china-team)，这意味更多的付出，当然也意味着更大的价值。
 
 
 2、如果你希望自己很自由，但是想利用自己的闲暇与兴趣做点力所能及的贡献，哪怕是一些有用的代码片段，那么欢迎加入[join Open Platform](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-open-community)，这意味着更大的自由，更多的机会。
