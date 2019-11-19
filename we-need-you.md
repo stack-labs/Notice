@@ -14,7 +14,7 @@
 + Medical Industry
 + ...
 
-## 我们的技能
+## 技能需求
 
 + Golang
 + Go-Micro
@@ -29,8 +29,8 @@
 
 ## 加入我们
 
-1、如果你希望自己成为Micro China Team一员，致力于go-micro中国生态的有序健康发展，那么欢迎加入[Join Micro China Team](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-china-team)，这意味更多的付出，当然也意味着更大的价值。
+1、如果你希望致力于go-micro中国生态的有序健康发展，那么欢迎加入[Join Micro China Team](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-china-team)，并成为Micro China Team的一员，这意味更多的付出，当然也意味着更大的价值。
 
 
-2、如果你希望自己成为Micro Open Community的一员，又能与Micro China Team一起，可以利用自己的闲暇与兴趣，自由贡献，哪怕是一些有用的代码片段，那么欢迎加入[Join Open Platform](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-open-community)，这意味着更大的自由，更多的机会。
+2、如果你希望利用自己的闲暇与兴趣，自由贡献，哪怕是一些有用的代码片段，那么欢迎加入[Join Open Platform](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-open-community)，并成为Micro Open Community的一员与Micro China Team在一起，这意味着更大的自由，更多的机会。
 
