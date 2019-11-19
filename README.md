@@ -1,6 +1,6 @@
 # 声明
 
-**Micro China[micro-in-cn](https://github.com/micro-in-cn)**是Micro（London）关注的组织，但是并非官方所属组织。任何非Micro的组织或个人的任何言论、代码等均不代表Micro，任何非Micro China的组织或个人的任何言论、代码等均不代表Micro China。
+**Micro China[[micro-in-cn](https://github.com/micro-in-cn)]**是Micro（London）关注的组织，但是并非官方所属组织。任何非Micro的组织或个人的任何言论、代码等均不代表Micro，任何非Micro China的组织或个人的任何言论、代码等均不代表Micro China。
 
 目前**Micro China**处于高速发展阶段，其发展现状、用户反馈等，都会受到Micro(London)的充分关注与能力支持。
 
