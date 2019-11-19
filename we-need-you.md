@@ -34,6 +34,6 @@
 
 2、如果你希望利用自己的闲暇与兴趣，自由贡献，哪怕是一些有用的代码片段，那么欢迎加入[Join Open Platform](https://github.com/micro-in-cn/Notice#%E5%8A%A0%E5%85%A5micro-open-community)，成为Micro Open Community的一员与Micro China Team在一起，这意味着更大的自由，更多的机会，当然，随时欢迎你在任何时刻加入到Micro China Team。
 
-## 最佳的开始
+## 最佳开始
 
 无需沟通，从[Join Micro Open Platform](https://github.com/micro-community/how-to-join/blob/master/README.md)开始，Team会了解你的贡献与活跃度，或许在你最意想不到的时刻，Team希望能有幸诚邀你加入Micro China Team.
