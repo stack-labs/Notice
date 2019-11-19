@@ -31,6 +31,7 @@
 3. 参与过、正在参与、即将参与go-micro、micro相关的开发。
 4. 良好的英文技术文档阅读能力，能听、说更好.
 5. 享受coding带来的乐趣，愿意为大家服务.
+6. [更多详情...](./we-need-you.md)
 
 麻烦添加微信：SLliuxian，备注姓名
 
@@ -40,6 +41,7 @@
 2. 对于有热情你，非常欢迎加入[Micro Open Community](https://github.com/micro-community).
 3. 在[Micro Open Community](https://github.com/micro-community)，你几乎可以发布任意Idea，并融入Micro China.
 4. 了解流程，加入Micro开放平台：[Join Micro Open Community](https://github.com/micro-community/how-to-join).
+5. [更多详情...](./we-need-you.md)
 
 ## 常见问题
 
