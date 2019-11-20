@@ -43,6 +43,13 @@
 4. 了解流程，加入Micro开放平台：[Join Micro Open Community](https://github.com/micro-community/how-to-join).
 5. [更多详情...](./we-need-you.md)
 
+## 我们现在需要
+
+1. 丰富的教程
+2. 实战项目的分享
+3. 运维级Ops集成教程
+4. ...
+
 ## 常见问题
 
 请开issue，我们会一一解答，谢谢大家。
