@@ -4,6 +4,10 @@
 
 目前**Micro China**处于高速发展阶段，其发展现状、用户反馈等，都会受到Micro(London)的充分关注与能力支持。
 
+**Micro China**包含两个部分：
++ Micro China Team[micro-in-cn](https://github.com/micro-in-cn),关键词是：核心、权威、准确、质量.
++ Micro Open Community[micro-community](https://github.com/micro-community)，关键词是：更开放、更自由、更活跃、MGC(member generate content).
+
 ## 交流
 
 请加入[slack](http://slack.micro.mu/)，进入**中国区**Channel沟通。
