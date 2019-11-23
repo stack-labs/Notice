@@ -5,9 +5,9 @@ We Recommended a Community Teams Workflow ,which will be very a simple flow, we 
 
 ## Very Simple Concept
 
-#### Main Repo Sets: [Micro-In-China](https://github.com/micro-in-cn) ,we use this like a main branch, we wish it steady and productive, core team and members drvie it.
+#### Main Repo Sets: [Micro-In-China](https://github.com/micro-in-cn) ,we use this like a main branch, we wish it steady and productive, micro china team will drvie it.
 
-#### Develop Repo Sets: [Micro-Community](https://github.com/micro-community),we use this like a development branch, we wish it more active and all members drive it..
+#### Develop Repo Sets: [Micro-Community](https://github.com/micro-community),we use this like a development branch, we wish it more active and all community members drive it.
 
 ## Very Simple Flow
 
