@@ -1,6 +1,6 @@
 # We Need You
 
-micro china 自由与严肃并重，开放与规则同在，在micro china，你甚至可以从一个草稿、一个想法开始，我们一起，创造更多精彩的micro项目。
+**Micro China**[[micro-in-cn](https://github.com/micro-in-cn)]，自由与严肃并重，开放与规则同在，在micro china，你甚至可以从一个草稿、一个想法开始，我们一起，创造更多精彩的micro项目。
 
 朋友们，欢迎加入**Micro China**[[micro-in-cn](https://github.com/micro-in-cn)]，这是一个开放的社区，这里有着开放的文化。
 
