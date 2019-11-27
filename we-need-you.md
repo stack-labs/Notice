@@ -42,4 +42,4 @@
 
 ## 最佳开始
 
-无需沟通，从[Join Micro Open Platform](https://github.com/micro-community/how-to-join/blob/master/README.md)开始，Team会了解你的贡献与活跃度，或许在你最意想不到的时刻，Team希望能有幸诚邀你加入Micro China Team.
+无需沟通，Join [Micro Open Platform](https://github.com/micro-community/how-to-join/blob/master/README.md)，你就已经走在了加入Micro China Team的路上，我们会了解你的贡献与活跃度，或许在你最意想不到的时刻，Team希望能有幸诚邀你直接加入Micro China Team.
