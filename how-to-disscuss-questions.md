@@ -18,3 +18,7 @@
 > A君：go-micro 配置中心不支持阿波罗吗
 
 > B君：自己写
+
+正确的回复：
+
+> 不支持，可以使用Apollo的Go客户端，或使用micro的配置服务`micro config` 
