@@ -44,4 +44,4 @@
 
 ## 最佳开始
 
-[[how-to-start](https://github.com/micro-community/notice/blob/master/how-to-start.md)] 这,真很简单,几乎没有限制.
+[[how-to-start](https://github.com/micro-community/notice/blob/master/how-to-start.md)] 这非常简单,几乎没有限制.
